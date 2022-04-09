@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c148bd0.css",
+    "main.js": "/static/js/main.4b43e872.js",
+    "static/media/authentication-bg.jpg": "/static/media/authentication-bg.e10e2a793caf3084bfa4.jpg",
+    "static/media/study2.jpg": "/static/media/study2.8b76377d752d228515af.jpg",
+    "static/media/study3.jpg": "/static/media/study3.c096fc0052881b8514c2.jpg",
+    "static/media/study1.jpg": "/static/media/study1.d4b2dc6e6faab551f478.jpg",
+    "static/media/logo.png": "/static/media/logo.f14d242e335cbc057ce2.png",
+    "index.html": "/index.html",
+    "main.5c148bd0.css.map": "/static/css/main.5c148bd0.css.map",
+    "main.4b43e872.js.map": "/static/js/main.4b43e872.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c148bd0.css",
+    "static/js/main.4b43e872.js"
+  ]
+}
